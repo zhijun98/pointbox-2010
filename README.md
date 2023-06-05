@@ -1,5 +1,5 @@
 # PointBox 2010
-PointBox system is made up of PointBox-console (<strong>source opened by this repo</strong>), PointBoxLocal/PointBoxCentral servers (Data polling and web service endpoints e.g. authentication/authorization), PointBox Engine HTTP Server (Instant messaging collection, parsing, quote-formatting, pricing engine ), PointBox controller (i.e. pricing engine's support, e.g. data skew curves, AtmVolCurve, etc.), PBIM server (i.e. PointBox instant messaging server), database with backup, etc. 
+PointBox system is made up of PointBox-console (<strong>source opened by this repo</strong>), PointBoxLocal/PointBoxCentral servers (Data polling and web service endpoints e.g. authentication/authorization), PointBox Engine HTTP Server (Instant messaging collection, parsing, quote-formatting, pricing engine ), PointBox controller (i.e. pricing engine's support, e.g. data skew curves, AtmVolCurve, etc.), PBIM server (i.e. PointBox instant messaging server), and database with backup, etc. 
 
 ![PointBox Architecture](https://github.com/zhijun98/pointbox_2010/assets/9690419/b478a1aa-8ecc-4373-92ee-858ecf5f8314)
 

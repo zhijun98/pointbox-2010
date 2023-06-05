@@ -1,11 +1,10 @@
 # PointBox 2010
-As an integrated commodity option pricing and communication platform, PointBox system allows users to maximize their market focus while minimizing their time spent on manual processing. PointBox simplifies market pricing, market tracking, and communication by utilizing automatic quote parsing and a standardized option language. It helps traders and/or brokers to make trading decisions more efficiently. 
+PointBox system is made up of PointBox-console (source opened by this repo), PointBoxLocal/PointBoxCentral servers (Data polling and web service endpoints e.g. authentication/authorization), PointBox Engine HTTP Server (Instant messaging collection, parsing, quote-formatting, pricing engine ), PointBox controller (i.e. pricing engine's support, e.g. data skew curves, AtmVolCurve, etc.), PBIM server (i.e. PointBox instant messaging server), database with backup, etc. 
 
-PointBox system is made up of PointBox-console, PointBoxLocal/PointBoxCentral servers, PointBox Engine HTTP Server, PointBox controller, PBIM server, database backup, etc.
 ![PointBox Architecture](https://github.com/zhijun98/pointbox_2010/assets/9690419/b478a1aa-8ecc-4373-92ee-858ecf5f8314)
 
 ## PointBox Console (PBC)
-A classic Java Swing rich-client application which is the main front-end of PointBox trading system for traders and/or brokers. 
+This repository only opened the source for PointBox-console which is a classic Java Swing rich-client application. It is the main front-end client application of PointBox trading system for traders and/or brokers. 
 
 (1) Commodity traders/brokers talks (or sends quotes on commodities) through Yahoo, AOL, and PointBox's instant-messaging which are provided by PointBox console (PBC) application. If traders/brokers use of PB's instant messaging, they will use of the following talker's panel to send their quotes:
 ![pb-option-pricer](https://github.com/zhijun98/pointbox_2010/assets/9690419/0fac8425-8040-4753-9208-8b52836e772c)
@@ -23,6 +22,8 @@ A classic Java Swing rich-client application which is the main front-end of Poin
 ![pb-grid](https://github.com/zhijun98/pointbox_2010/assets/9690419/17781e34-bf98-4f2a-82a9-31d6a1ba29d4)
 
 (5) Traders/brokers do their trade by the help of PB-pricing results.
+
+To sum up, tarders/broackers exchange commodity quotes over various instant messengers (AOL, Yahoo, PointBox) by means of PointBox console under the help of its backend servers (whose implementation is not presented in this repo). As soon as the instant messages containing quotes are sent out through PBC, it will be collected, parsed, formatted, priced, and presented immediately so that traders/brokers may made decision by the help of pricing result. As an integrated commodity option pricing and communication platform, PointBox system allows users to maximize their market focus while minimizing their time spent on manual processing. PointBox simplifies market pricing, market tracking, and communication by utilizing automatic quote parsing and a standardized option language. It helps traders and/or brokers to make trading decisions more efficiently. 
 
 ## Documents & Screen Shots
 For more information on PointBox system architecture, release and deployment enviroment, refer to these two folders. 

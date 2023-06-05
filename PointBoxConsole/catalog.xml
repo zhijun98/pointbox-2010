@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/PointBoxWeb/PBGatewayWebService?wsdl" uri="xml-resources/web-service-references/PBGatewayWebService/wsdl/localhost_8080/PointBoxWeb/PBGatewayWebService.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxWeb/PBGatewayWebService?xsd=1" uri="xml-resources/web-service-references/PBGatewayWebService/wsdl/localhost_8080/PointBoxWeb/PBGatewayWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PointBoxWeb/PBStorageWebService?wsdl" uri="xml-resources/web-service-references/PBStorageWebService/wsdl/localhost_8080/PointBoxWeb/PBStorageWebService.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxWeb/PBStorageWebService?xsd=1" uri="xml-resources/web-service-references/PBStorageWebService/wsdl/localhost_8080/PointBoxWeb/PBStorageWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PointBoxWeb/GatewayWebService?wsdl" uri="xml-resources/web-service-references/GatewayWebService/wsdl/localhost_8080/PointBoxWeb/GatewayWebService.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxWeb/GatewayWebService?xsd=1" uri="xml-resources/web-service-references/GatewayWebService/wsdl/localhost_8080/PointBoxWeb/GatewayWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PointBoxWebService/PointBoxWeb?wsdl" uri="xml-resources/web-service-references/PointBoxWeb/wsdl/localhost_8080/PointBoxWebService/PointBoxWeb.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxWebService/PointBoxWeb?xsd=1" uri="xml-resources/web-service-references/PointBoxWeb/wsdl/localhost_8080/PointBoxWebService/PointBoxWeb.xsd_1.xsd"/>
+    <system systemId="http://174.136.1.18/PointBoxWebService/PointBoxWeb?wsdl" uri="xml-resources/web-service-references/PointBoxWeb/wsdl/174.136.1.18/PointBoxWebService/PointBoxWeb.wsdl"/>
+    <system systemId="http://174.136.1.18:80/PointBoxWebService/PointBoxWeb?xsd=1" uri="xml-resources/web-service-references/PointBoxWeb/wsdl/174.136.1.18_80/PointBoxWebService/PointBoxWeb.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PointBoxController/PointBoxController?wsdl" uri="xml-resources/web-service-references/PointBoxController/wsdl/localhost_8080/PointBoxController/PointBoxController.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxController/PointBoxController?xsd=1" uri="xml-resources/web-service-references/PointBoxController/wsdl/localhost_8080/PointBoxController/PointBoxController.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PointBoxLocal/PointBoxLocal?wsdl" uri="xml-resources/web-service-references/PointBoxLocal/wsdl/localhost_8080/PointBoxLocal/PointBoxLocal.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxLocal/PointBoxLocal?xsd=1" uri="xml-resources/web-service-references/PointBoxLocal/wsdl/localhost_8080/PointBoxLocal/PointBoxLocal.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PointBoxCentral/PointBoxCentral?wsdl" uri="xml-resources/web-service-references/PointBoxCentral/wsdl/localhost_8080/PointBoxCentral/PointBoxCentral.wsdl"/>
+    <system systemId="http://localhost:8080/PointBoxCentral/PointBoxCentral?xsd=1" uri="xml-resources/web-service-references/PointBoxCentral/wsdl/localhost_8080/PointBoxCentral/PointBoxCentral.xsd_1.xsd"/>
+    <system systemId="http://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl" uri="xml-resources/web-service-references/ndfdXML/wsdl/graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl"/>
+</catalog>

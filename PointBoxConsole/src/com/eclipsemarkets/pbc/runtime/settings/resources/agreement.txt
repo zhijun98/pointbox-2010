@@ -1,0 +1,55 @@
+Point Box Software End User License Agreement
+
+IMPORTANT – READ CAREFULLY: Usage of the Point Box software, services, and documentation (“Software”) is subject to the terms and conditions contained in this End User License Agreement (“Agreement”). This Agreement is a legal agreement between you (either an individual or a single entity) and Eclipse Market Solutions, LLC (“EMS”) dictating the use of the Software.
+By installing or using this Software, you agree to be bound by the terms of this Agreement. If you do not agree, you may not install, copy, or use this Software and must return the Software to EMS.
+
+1.	OWNERSHIP. The Software is protected by copyright, patent and other intellectual property laws. You acknowledge and agree that EMS retains all right, title, and interest in the Software anywhere the Software is installed or copied. Your rights to use the Software are specified in this Agreement and EMS retains all rights not explicitly granted to you.
+
+2.	GRANT OF LICENSE. Subject to your compliance with the terms and conditions of this Agreement, EMS grants you a non-exclusive and non-transferable license to use one copy of the Software for your internal usage.
+
+3.	LIMITATIONS. You agree to the following:
+i) You may not assign, lease, resell or otherwise transfer any part of the Software.
+ii) You may not permit a third party to access the Software.
+iii) You may not decompile, disassemble, or reverse engineer any part of the Software or create any derivative products based on the Software.
+iv) You may make one copy of the Software for backup purposes.
+v) You may not remove any copyright, patent, of other proprietary notices, symbols, or labels in the Software.
+vi) You may not separate the components of the Software for use on more than one computer.
+vii) You may not use the Software in a way that violates this Agreement or any laws.
+
+4.	UPDATES. EMS may provide updates and patches (“Updates”), but is under no obligation to do so. Any Updates are part of the Software and will be governed by this Agreement unless you are asked to agree to new or additional terms during the installation of the Updates.
+
+5.	SOFTWARE SUPPORT. EMS may provide Software support services, but is under no obligation to do so.
+
+6.	TERMINATION. EMS may terminate or modify any portion of the Agreement with or without cause. The Agreement automatically terminates if you violate the terms of this Agreement. Upon termination of the Agreement, you must cease all usage of the Software and destroy or return all copies of the Software to EMS. If requested by EMS, you must certify in writing and at no charge to EMS that all
+of the Software has been destroyed or returned and that you no longer possess any portion of the Software.
+
+7.	DISCLAIMER OF WARRANTY.
+EMS LICENSES THE SOFTWARE “AS IS” WITHOUT WARRANTIES OF ANY KIND. EMS DOES NOT WARRANT THAT THIS SOFTWARE WILL MEET YOUR REQUIREMENTS, OR THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ACKNOWLEDGE THAT THE USAGE OF THE SOFTWARE, ANY SERVICES PROVIDED BY EMS, AND THE LOCATION OF THE SOFTWARE IS AT YOUR SOLE RISK.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EMS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, CONCERNING THE SOFTWARE, ANY SERVICES PROVIDED BY EMS, AND THE LOCATION OF THE SOFTWARE, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, AND NON-INFRINGEMENT.
+NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY EMS SHALL CREATE ANY WARRANTIES OR IN ANY WAY INCREASE THE SCOPE OF ANY WARRANTIES HEREUNDER.
+THE SOFTWARE, ANY SERVICES PROVIDED BY EMS, AND THE LOCATION OF THE SOFTWARE ARE NOT INTENDED TO REPLACE YOUR PROFESSIONAL SKILL AND EVALUATIONS.
+
+8.	LIMITATION OF LIABILITY.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL EMS, ITS PARENT, AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, LICENSORS, DISTRIBUTORS, OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOSS OF INFORMATION, BUSINESS INTERRUPTION, COMPUTER MALFUNCTIONS, OR ANY OTHER LOSSES), ARISING OUT OF OR IN ANY WAY RELATING TO THIS AGREEMENT OR THE USE OR INABILITY TO USE THE SOFTWARE, ANY SERVICES PROVIDED BY EMS, AND THE LOCATION OF THE SOFTWARE, EVEN IF EMS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT WILL EMS’, ITS PARENT’, AFFILIATES’, DIRECTORS’, OFFICERS’, EMPLOYEES’, AGENTS’, LICENSORS’, DISTRIBUTORS’, OR SUPPLIERS’ CUMULATIVE LIABILITY UNDER THIS AGREEMENT EXCEED THE SUM OF THE FEES YOU PAID FOR THIS LICENSE (IF ANY).
+
+9.	EXPORT CONTROL. You agree to comply with all laws, regulations, and rules regarding the export of the Software or the distribution of information about the Software, including any laws, regulations, and rules enacted following the execution of this Agreement.
+
+10.	INDEMNIFICATION. You agree to indemnify, defend, and hold harmless EMS, its parent, affiliates, directors, officers, employees, agents, licensors, distributors, or suppliers from all liabilities, claims, and expenses, including attorneys’ fees that arise from:
+i)	Your use or misuse of the Software.
+ii)	Any trading activities.
+iii)	Violation of any laws.
+
+11.	CONFIDENTIALITY. You acknowledge to keep confidential and undisclosed any confidential information related to the Software, including screen designs, interface capabilities, documentation, and algorithms (collectively “EMS Proprietary Materials”), without the prior written consent of EMS. You agree to keep the EMS Proprietary Materials confidential for the duration of this Agreement and beyond. You acknowledge that due to the exclusive nature of EMS Proprietary Materials a breach of the obligations in this section has no adequate remedy at law. Accordingly, EMS will be entitled to appropriate relief from a court of competent jurisdiction in addition to other legal remedies that may be available.
+12.	MISCELLANEOUS.
+i)	If any provision of this Agreement is held invalid or unenforceable, then such provision will be modified to the extent necessary to make such provision enforceable, and the remaining portions of the Agreement shall remain valid and fully enforceable.
+ii)	A waiver by either of the parties hereto of any of the covenants or conditions to be performed by the other shall not be construed to be a waiver of any succeeding breach thereof or of any covenant or condition herein contained.
+iii) This Agreement shall be governed by and construed in accordance with the internal laws of the State of New York and the parties consent to the exclusive jurisdiction of such courts and jurisdictions therein.
+iv) This Agreement sets forth the complete and exclusive agreement between the parties relative to the subject matter hereof and supersedes all previous understandings, negotiations, contracts, or agreements whether oral or written. EMS may, at its own discretion, alter or amend the terms of this Agreement and post them on EMS’ website. You acknowledge EMS’ right to do so and agree to use the Software in accordance to the terms of the latest End User License Agreement.
+v) You agree to establish and enforce reasonable measures to ensure compliance with this Agreement. At the request of EMS, you shall verify compliance with this Agreement in writing. With reasonable notice, EMS reserves the right to inspect your facilities to confirm compliance with this Agreement.
+vi) The terms and conditions contained in Sections 5 through 12, including subsections, shall survive the termination or expiration of this Agreement, regardless of cause.
+vii) You may not assign or otherwise transfer this Agreement or any rights and obligations herein. 
+12.	Customer Data Privacy.
+i)       Remote Data Storage – Eclipse Market Solutions affirms that customer instant messages are the property of the customer, and affirms that it does not store or monitor customer instant messaging data on its servers. Any record of an instant message passing through the Point Box system is immediately and permanently destroyed upon delivery of that message. In the case that a Point Box Instant Message could not be delivered it will be purged from the system’s buffer by an automated database cleaning routine. Point Box does not buffer undeliverable instant messages sent by third party messaging systems (AOL Instant Messenger, Yahoo Instant Messenger, etc.).
+ii)       Local Data Storage – The Point Box Console application creates records of instant messages conversation on the customer’s local computer or network for the customer’s use. These records are the sole property of the customer, and are in no way retrievable by Eclipse. These records may be accessed or destroyed by the customer at any time. 
+

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <Properties>
+    <Property name="requestFocusEnabled" type="boolean" value="false"/>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                  <Group type="102" attributes="0">
+                      <Component id="allViewerSettingsCheckBox" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" pref="189" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="allViewerSettingsCheckBox" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder title="Visibility of Aggregator Columns:">
+              <Font PropertyName="font" name="Tahoma" size="11" style="1"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+        <Property name="name" type="java.lang.String" value="jPanel1" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignGridLayout">
+        <Property name="columns" type="int" value="5"/>
+        <Property name="horizontalGap" type="int" value="3"/>
+        <Property name="rows" type="int" value="6"/>
+        <Property name="verticalGap" type="int" value="1"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JCheckBox" name="jBid">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Bid"/>
+            <Property name="name" type="java.lang.String" value="jBid" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jRemoteBrokerHouse">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Broker"/>
+            <Property name="name" type="java.lang.String" value="jRemoteBrokerHouse" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jBuySell">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Buy/Sell"/>
+            <Property name="name" type="java.lang.String" value="jBuySell" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jCross">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cross"/>
+            <Property name="name" type="java.lang.String" value="jCross" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jDelta">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Delta"/>
+            <Property name="name" type="java.lang.String" value="jDelta" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jDGamma">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="True Gamma"/>
+            <Property name="name" type="java.lang.String" value="jDGamma" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jDDelta">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="True Delta"/>
+            <Property name="name" type="java.lang.String" value="jDDelta" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jQuoteClass">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Class"/>
+            <Property name="name" type="java.lang.String" value="jQuoteClass" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jGamma">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Gamma"/>
+            <Property name="name" type="java.lang.String" value="jGamma" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jRowNumber">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="ID"/>
+            <Property name="name" type="java.lang.String" value="jRowNumber" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jLast">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Last"/>
+            <Property name="name" type="java.lang.String" value="jLast" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jQuoteGroup">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Group"/>
+            <Property name="name" type="java.lang.String" value="jQuoteGroup" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jQuoteCode">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Code"/>
+            <Property name="name" type="java.lang.String" value="jQuoteCode" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jOffer">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Offer"/>
+            <Property name="name" type="java.lang.String" value="jOffer" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jPbsysPrice">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="PB"/>
+            <Property name="name" type="java.lang.String" value="jPbsysPrice" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jPeriod">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Period"/>
+            <Property name="name" type="java.lang.String" value="jPeriod" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jQuoteMessage">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Quote"/>
+            <Property name="name" type="java.lang.String" value="jQuoteMessage" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jQuoteSource">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Source"/>
+            <Property name="name" type="java.lang.String" value="jQuoteSource" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jStrike">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Strike"/>
+            <Property name="name" type="java.lang.String" value="jStrike" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jStructure">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Structure"/>
+            <Property name="name" type="java.lang.String" value="jStructure" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jSwap01">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Swap01"/>
+            <Property name="name" type="java.lang.String" value="jSwap01" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jSwap02">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Swap02"/>
+            <Property name="name" type="java.lang.String" value="jSwap02" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jTheta">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Theta"/>
+            <Property name="name" type="java.lang.String" value="jTheta" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jTimeStamp">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Time"/>
+            <Property name="name" type="java.lang.String" value="jTimeStamp" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jUnderlier">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Underlier"/>
+            <Property name="name" type="java.lang.String" value="jUnderlier" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jVega">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Vega"/>
+            <Property name="name" type="java.lang.String" value="jVega" noResource="true"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JCheckBox" name="jVol">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Vol"/>
+            <Property name="name" type="java.lang.String" value="jVol" noResource="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JCheckBox" name="allViewerSettingsCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Apply aggregator column settings change for all other viewers"/>
+        <Property name="name" type="java.lang.String" value="allViewerSettingsCheckBox" noResource="true"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

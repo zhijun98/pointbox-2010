@@ -8,7 +8,7 @@ PointBox system is made up of PointBox-console (<strong>source opened by this re
 
 (1) Commodity traders/brokers talks (or sends quotes on commodities) through Yahoo, AOL, and PointBox's instant-messaging which are provided by PointBox console (PBC) application. If traders/brokers use of PB's instant messaging, they will use of the following talker's panel to send their quotes:
 
-<img src="https://github.com/zhijun98/pointbox_2010/assets/9690419/9690419/0fac8425-8040-4753-9208-8b52836e772c" width="600">
+<img src="https://github.com/zhijun98/pointbox_2010/assets/9690419/0fac8425-8040-4753-9208-8b52836e772c" width="600">
 
 (2) PBC has ability of "catching and understanding" traders/brokers conversation by means of Yahoo/AOL instant messaging and PointBox's talker in the real time.
 

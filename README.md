@@ -20,7 +20,8 @@ PointBox system is made up of PointBox-console (<strong>source opened by this re
 ![Trade Entry Form](https://github.com/zhijun98/pointbox_2010/assets/9690419/ec211eaa-768d-45ed-8336-4df57a059246)
 
 (4) PBC ask PB-pricer to price such quotes and present the predicted PB-pricing-result into the following yellow-jacket-like tables:
-![pb-grid](https://github.com/zhijun98/pointbox_2010/assets/9690419/17781e34-bf98-4f2a-82a9-31d6a1ba29d4)
+
+<img src="https://github.com/zhijun98/pointbox_2010/assets/9690419/17781e34-bf98-4f2a-82a9-31d6a1ba29d4" width="600">
 
 (5) Traders/brokers do their trade by the help of PB-pricing results.
 

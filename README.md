@@ -1,8 +1,8 @@
 # PointBox 2010
 As an integrated commodity option pricing and communication platform, PointBox system allows users to maximize their market focus while minimizing their time spent on manual processing. PointBox simplifies market pricing, market tracking, and communication by utilizing automatic quote parsing and a standardized option language. It helps traders and/or brokers to make trading decisions more efficiently. 
 
-## Documents & Screen Shots
-It contains the big picture of PointBox architecture, release with deployment enviroment, and screen shots on front-end GUI design, etc. 
+PointBox system is made up of PointBox-console, PointBoxLocal/PointBoxCentral servers, PointBox Engine HTTP Server, PointBox controller, PBIM server, database backup, etc.
+![PointBox Architecture](https://github.com/zhijun98/pointbox_2010/assets/9690419/b478a1aa-8ecc-4373-92ee-858ecf5f8314)
 
 ## PointBox Console (PBC)
 A classic Java Swing rich-client application which is the main front-end of PointBox trading system for traders and/or brokers. 
@@ -24,4 +24,5 @@ A classic Java Swing rich-client application which is the main front-end of Poin
 
 (5) Traders/brokers do their trade by the help of PB-pricing results.
 
-Refer to screen-shots for more GUI design and implementation for client-side users. 
+## Documents & Screen Shots
+For more information on PointBox system architecture, release and deployment enviroment, refer to these two folders. 

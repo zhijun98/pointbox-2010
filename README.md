@@ -4,7 +4,7 @@ PointBox system is made up of PointBox-console (<strong>source opened by this re
 ![PointBox Architecture](https://github.com/zhijun98/pointbox_2010/assets/9690419/b478a1aa-8ecc-4373-92ee-858ecf5f8314)
 
 ## PointBox Console (PBC)
-This repository only opened the source for PointBox-console which is a classic Java Swing rich-client application. It is the main front-end client application of PointBox trading system for traders and/or brokers. 
+<strong>This repository only opened the source for PointBox-console<strong> which is the front-end GUI client application of PointBox system. It was implemented as a classic Java Swing rich-client application to support traders and/or brokers's daily operations. 
 
 (1) Commodity traders/brokers talks (or sends quotes on commodities) through Yahoo, AOL, and PointBox's instant-messaging which are provided by PointBox console (PBC) application. If traders/brokers use of PB's instant messaging, they will use of the following talker's panel to send their quotes:
 ![pb-option-pricer](https://github.com/zhijun98/pointbox_2010/assets/9690419/0fac8425-8040-4753-9208-8b52836e772c)
@@ -26,4 +26,4 @@ This repository only opened the source for PointBox-console which is a classic J
 To sum up, tarders/broackers exchange commodity quotes over various instant messengers (AOL, Yahoo, PointBox) by means of PointBox console under the help of its backend servers (whose implementation is not presented in this repo). As soon as the instant messages containing quotes are sent out through PBC, it will be collected, parsed, formatted, priced, and presented immediately so that traders/brokers may made decision by the help of pricing result. As an integrated commodity option pricing and communication platform, PointBox system allows users to maximize their market focus while minimizing their time spent on manual processing. PointBox simplifies market pricing, market tracking, and communication by utilizing automatic quote parsing and a standardized option language. It helps traders and/or brokers to make trading decisions more efficiently. 
 
 ## Documents & Screen Shots
-For more information on PointBox system architecture, release and deployment enviroment, refer to these two folders. 
+For more information on the entire PointBox system, especially its architecture, release and deployment environment, these two folders contains materials on them. 

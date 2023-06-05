@@ -4,7 +4,7 @@ PointBox system is made up of PointBox-console (<strong>source opened by this re
 <img src="https://github.com/zhijun98/pointbox_2010/assets/9690419/b478a1aa-8ecc-4373-92ee-858ecf5f8314" width="600">
 
 ## PointBox Console (PBC)
-<strong>This repository only opened the source for PointBox-console<strong> which is the front-end GUI client application of PointBox system. It was implemented as a classic Java Swing rich-client application to support traders and/or brokers's daily operations. 
+<strong>This repository only opened the source for PointBox-console</strong> which is the front-end GUI client application of PointBox system. It was implemented as a classic Java Swing rich-client application to support traders and/or brokers's daily operations. 
 
 (1) Commodity traders/brokers talks (or sends quotes on commodities) through Yahoo, AOL, and PointBox's instant-messaging which are provided by PointBox console (PBC) application. If traders/brokers use of PB's instant messaging, they will use of the following talker's panel to send their quotes:
 
@@ -12,8 +12,8 @@ PointBox system is made up of PointBox-console (<strong>source opened by this re
 
 (2) PBC has ability of "catching and understanding" traders/brokers conversation by means of Yahoo/AOL instant messaging and PointBox's talker in the real time.
 
-![PBC Main Menu](https://github.com/zhijun98/pointbox_2010/assets/9690419/3e082d65-ea80-451c-b30e-a983dafbdb56)
-![Talker Panel](https://github.com/zhijun98/pointbox_2010/assets/9690419/4de232fc-5b2d-42c3-963a-bdfc10d0558b)
+<img src="https://github.com/zhijun98/pointbox_2010/assets/9690419/3e082d65-ea80-451c-b30e-a983dafbdb56" width="600">
+<img src="https://github.com/zhijun98/pointbox_2010/assets/9690419/4de232fc-5b2d-42c3-963a-bdfc10d0558b" width="600">
 
 (3) PBC will automatically parse traders/brokers' conversation and convert them into a standard commodity option-quotes presented into "trade entry form":
 
